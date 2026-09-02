@@ -265,9 +265,3 @@ Projeto desenvolvido para a atividade prática:
 
 Projeto desenvolvido para fins acadêmicos e de aprendizagem
 da linguagem Python.
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins educacionais.
